@@ -1,3 +1,5 @@
+![logo](https://github.com/langit-Senja/Pengenalan/blob/main/programer.jpg)
+
 <h1 align="center">Hi 👋, I'm Alfat Naufa</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
