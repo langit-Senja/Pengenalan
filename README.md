@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=langit-senja" alt="langit-senja" /></a> </p>
 
-<img alight="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2nk8-pberL6UGm6peng-H5&ust=1718081419084000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNClmbSe0IYDFQAAAAAdAAAAABAE">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alfat-naufal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alfat-naufal" height="30" width="40" /></a>
