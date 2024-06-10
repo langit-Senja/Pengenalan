@@ -1,11 +1,13 @@
 ![logo](https://github.com/langit-Senja/Pengenalan/blob/main/programer.jpg)
 
-<h1 align="center">Hi 👋, I'm Alfat Naufa</h1>
+<h1 align="center">Hi 👋, I'm Alfat Naufal</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=langit-senja&label=Profile%20views&color=0e75b6&style=flat" alt="langit-senja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=langit-senja" alt="langit-senja" /></a> </p>
+
+<img alight="right" alt="Coding" widht="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2nk8-pberL6UGm6peng-H5&ust=1718081419084000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNClmbSe0IYDFQAAAAAdAAAAABAE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
